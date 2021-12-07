@@ -42,4 +42,4 @@ And then the required parameters to fit our model requirements in the DetectorAc
 ## More examples
 
 [![real time face mask detection in android](http://img.youtube.com/vi/9bxqWqg1Ixo/0.jpg)](https://www.youtube.com/watch?v=wFIIoYAte-k&list=PLFfYWLUQYSbqhrJj8ogRNR8WjQizxpHyq "more examples")
-# Portable_Clean_C19
+# MaDe
